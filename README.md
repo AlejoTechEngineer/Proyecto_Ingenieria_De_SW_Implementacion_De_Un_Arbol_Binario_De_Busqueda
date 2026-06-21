@@ -27,6 +27,21 @@ Implementación de la estructura de datos **Binary Search Tree (BST)** en Java u
 | Recorrido preorden | O(n) | O(n) |
 | Recorrido postorden | O(n) | O(n) |
 
+## Arquitectura
+
+```mermaid
+flowchart TD
+    A[BST_Java_NetBeans] --> B[src/BinarySearchTree.java]
+    A --> C[build.xml - Apache Ant]
+    A --> D[dist/ - JAR Ejecutable]
+    B --> E[insert - O-log n]
+    B --> F[search - O-log n]
+    B --> G[delete - O-log n]
+    B --> H[inorder / preorder / postorder - O-n]
+    C --> I[Compilacion y Empaquetado]
+    I --> D
+```
+
 ## Estructura del proyecto
 
 ```
