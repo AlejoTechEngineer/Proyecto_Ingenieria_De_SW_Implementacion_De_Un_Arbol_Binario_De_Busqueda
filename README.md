@@ -1,3 +1,5 @@
+<div align="center">
+
 # Árbol Binario de Búsqueda (BST) — Implementación en Java
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -7,6 +9,10 @@
 > Implementación completa de árbol binario de búsqueda en Java con NetBeans/Ant: inserción, búsqueda, eliminación y recorridos.
 
 ## Descripción
+
+</div>
+
+---
 
 Implementación de la estructura de datos **Binary Search Tree (BST)** en Java usando **NetBeans IDE** con sistema de build **Apache Ant**. Se implementan todas las operaciones fundamentales con análisis de su complejidad temporal en casos promedio y peor caso.
 
@@ -36,3 +42,12 @@ proyecto/
 
 **Asignatura:** Ingeniería de Software / Estructuras de Datos · **Institución:** Ingeniería Informática
 **Autor:** Alejandro De Mendoza — Ingeniero Informático · Especialista Ingeniería de Software
+
+---
+
+## Autor
+
+**Alejandro De Mendoza**  
+Ingeniero Informático · Especialista en IA · Especialista en Ingeniería de Software · Máster en Arquitectura de Software
+
+[![GitHub](https://img.shields.io/badge/GitHub-AlejoTechEngineer-181717?style=for-the-badge&logo=github)](https://github.com/AlejoTechEngineer)
